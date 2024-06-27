@@ -1,16 +1,13 @@
-## Hi there 👋
+<h1 align="center">Hello, I'm Z 👋</h1>
+<h3 align="center">A CS/Applied Math Major at Stony Brook University</h3>
 
-<!--
-**ZhanXiang136/ZhanXiang136** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💬 Hobbies
+- Playing Basketball 🏀
+- Grinding Leetcode ⌨️
+- Gaming game 🎮
+- Watching Anime 🖥️
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ## 📫 How to reach me
+- <a href="https://zhanxiangzheng.me" target="_blank">Personal Website</a>
+- <a href="https://www.linkedin.com/in/zhan-xiang-zheng-9b962b219/" target="_blank">Linkedin</a>
+- zhanxiangzheng136@gmail.com
